@@ -1,4 +1,4 @@
-# React + Material-UI + Firebase [![Build Status](https://travis-ci.org/nikalomoiris/do-it.svg?branch=master)](https://travis-ci.org/nikalomoiris/do-it)
+# React + Material-UI + Firebase [![Build Status](https://travis-ci.org/nikalomoiris/doit.svg?branch=master)](https://travis-ci.org/nikalomoiris/doit)
 
 This project is an application skeleton for a typical [React](https://reactjs.org) project. It comes bundled with [Material-UI](https://material-ui.com), [Firebase](https://firebase.google.com), and [React Router](https://reacttraining.com/react-router). With [Create React App](https://facebook.github.io/create-react-app) at its core, you can use it to bootstrap your projects and development environment with the same tooling.
 
