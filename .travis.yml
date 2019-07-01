@@ -7,13 +7,13 @@ cache:
 script:
   - yarn build
   - yarn test
-deploy:
-  edge:
-    branch: v1.8.47
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  keep_history: true
-  on:
-    branch: master
-  local_dir: ./build
+# deploy:
+#   edge:
+#     branch: v1.8.47
+#   provider: pages
+#   skip_cleanup: true
+#   github_token: $GITHUB_TOKEN
+#   keep_history: true
+#   on:
+#     branch: master
+#   local_dir: ./build
